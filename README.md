@@ -1,8 +1,6 @@
-# Python-Portfolio
+# Python 3.6 Portfolio
 
-Here is a portfolio composed of python coding experience complemented with concepts in physics and mathematics. 
-Each file contains a different project for viewing and the associated files for certain projects are given as well. 
+A repository composed of python code exemplifying various concepts in physics and mathematics. 
+Each file contains a different project for viewing along with their associated files. 
 Supplemental material can be found for some projects but is not totally necessary for understanding at a surface level. 
-Some knowledge in certain concepts is assumed. 
-
-For any further questions, my email is: ANB262@pitt.edu
+Some knowledge in concepts such as optics, astronomy and electromagnetism is assumed. 
